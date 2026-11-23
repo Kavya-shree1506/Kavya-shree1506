@@ -47,7 +47,7 @@ I enjoy working with data, exploring patterns, developing analytical solutions a
 
 ### 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/)
+- LinkedIn: https://www.linkedin.com/in/kavya-shree-r-sekar-07a08833a/ 
 - Email: kavyasekar1506@gmail.com
 
 ---
