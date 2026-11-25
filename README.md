@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there! 👋 I'm Kavya Shree</h1>
+<h1 align="center">Hey there! 👋 I'm Kavya Shree Radhakrishnan Sekar<h1>
 
 <h3 align="center">Aspiring Data Analyst | Data Analytics | Business Intelligence | AI & ML</h3>
 
