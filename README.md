@@ -1,5 +1,4 @@
-
-<h1 align="center">Hey there! 👋 I'm Kavya Shree Radhakrishnan Sekar<h1>
+<h1 align="center">Hey there! 👋 I'm Kavya Shree Radhakrishnan Sekar</h1>
 
 <h3 align="center">Aspiring Data Analyst | Data Analytics | Business Intelligence | AI & ML</h3>
 
@@ -26,38 +25,78 @@
 ---
 
 
-## 🛠️ Technical Skills & Technologies
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+## 🧩 Technical Skills & Tools
 
-### 📊 Data Analytics & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
+### 01. Programming & Query Languages
+- Python
+- SQL
+- SQL Server
 
-### 🤖 Machine Learning & Statistical Analysis
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAS-005EB8?style=for-the-badge&logo=sas&logoColor=white"/>
-</p>
+### 02. Data Analysis & Data Manipulation
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Transformation
+- Data Interpretation
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+### 03. Data Visualization & Business Intelligence
+- Microsoft Power BI
+- Microsoft Excel
+- Matplotlib
+- Dashboard Development
+- KPI Analysis
+- Data Storytelling
+
+### 04. Machine Learning & Predictive Analytics
+- Scikit-learn
+- Regression Analysis
+- Random Forest
+- Gradient Boosting
+- Forecasting
+- Feature Engineering
+- Model Evaluation (MAE, RMSE, R²)
+
+### 05. Statistics & Analytics
+- Applied Statistics
+- Statistical Analysis
+- Statistical Modelling
+- Descriptive Statistics
+- Predictive Analysis
+- SAS Studio
+- SAS Viya
+
+### 06. Databases & Data Management
+- MongoDB
+- Database Management Systems (DBMS)
+- SQL-based Data Retrieval
+
+### 07. Development Tools & Platforms
+- Git
+- GitHub
+- Google Colab
+- Visual Studio Code
+- Streamlit
+- Jupyter Notebook
+
+### 08. Monitoring & Technical Exposure
+- Grafana
+- Telecom KPI Monitoring
+- Network Performance Analysis
 
 ---
+
+### 💻 Technologies Applied in Projects
+
+| Project | Concepts & Tools |
+|---|---|
+| Household Electricity Forecasting | Python, Pandas, Scikit-learn, Forecasting |
+| Movie Ratings Analysis | Python, Pandas, Matplotlib |
+| Telecom KPI Dashboard | Power BI, SQL, KPI Analysis |
+| Healthcare Patient Analysis | Power BI, Data Visualization |
+| Smart Crop Advisory | Python, Machine Learning |
+
 
 ## 🚀 Featured Projects
 
