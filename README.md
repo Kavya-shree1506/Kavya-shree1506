@@ -123,11 +123,12 @@
 
 ---
 
-### 🌱 Smart Crop Advisory System
-**Tech Stack:** Python | Machine Learning
+### 🌱 Smart Crop Advisory System – Hackathon Prototype
 
-- Developed a project focused on supporting crop-related recommendations.
-- Explored the use of data-driven approaches for agricultural decision-making.
+- Prepared and organized data for a proposed smart crop advisory solution.
+- Explored the problem statement and outlined a data-driven approach.
+- Developed a conceptual prototype to explain the proposed solution.
+- Presented the project concept as part of a hackathon initiative.
 
 🔗 [View Project Repository](https://github.com/Kavya-shree1506)
 
